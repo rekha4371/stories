@@ -1,3 +1,6 @@
 A-----Alpha
 B----Bravo
 C----Charlie
+
+D----dog
+E---eliminate
